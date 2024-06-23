@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @Yanzhong Huang
 - 👀 I’m interested in data science, machine learning and quant trading
-- 🐶 I shared some courses and tips through my personal blog: [https//bagel-quant.com](https://bagel-quant.com)
+- 🐶 I shared some courses and tips through my personal blog: [BagelQuant](https://bagelquant.notion.site)
 
 - 📫 How to reach me -> 
   - Email: eric.yanzhong.huang@outlook.com
